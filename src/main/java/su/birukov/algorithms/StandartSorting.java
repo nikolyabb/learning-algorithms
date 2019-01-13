@@ -1,7 +1,7 @@
 package su.birukov.algorithms;
 
 public class StandartSorting {
-    int[] seq;
+    private int[] seq;
 
     StandartSorting (int[] seq) {
         this.seq = seq;
